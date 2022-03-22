@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(155, 19, 19);
+}
+
+#title,
+h1 {
+    text-align: center;
+    font-size: 30px;
+    background-color: rgba(209, 188, 188, 0.74);
+    color: white;
+}
+
+.img {
+    height: 300px;
+    width: auto;
+}
+
+.name {
+    background-color: blanchedalmond;
+    color: black;
+    font-size: 24px;
+}
